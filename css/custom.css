@@ -1,0 +1,39 @@
+body {
+    background-image: url(../src/img/pexels-fausto-hernández-11491779.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+header {
+    margin: 30px 0;
+}
+.contenido {
+    padding:20px;
+}
+.contenido-principal {
+    background-color: rgba(255, 255, 255, 0.591);
+    padding: 30px;
+    border-radius: 20px;
+}
+.presupuesto p{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.presupuesto p span {
+    font-weight: normal;
+}
+#gastos {
+    margin-bottom: 30px;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    
+    font-size: 22px;
+    margin-bottom:30px;
+}
